@@ -31,5 +31,5 @@ This project implements a relational database system using MySQL for managing a 
 5. Extend with further queries or constraints as needed.
 
 ---
-
-For any issues or customization requests, please contact [Your Name / Contact Info].
+-Angarag Seal
+-angaragseal55@gmail.com
